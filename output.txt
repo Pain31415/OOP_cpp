@@ -1,0 +1,20 @@
+Original Information:
+----------------------
+Full Name: Jane Doe
+Birth Date: 02-02-2002
+Contact Number: +987654321
+City: NewCity, Country: NewCountry
+University: New University
+University Location: NewUniCity, NewUniCountry
+Group Number: NewGroup
+
+
+Updated Information:
+----------------------
+Full Name: Jane Doe
+Birth Date: 02-02-2002
+Contact Number: +987654321
+City: NewCity, Country: NewCountry
+University: New University
+University Location: NewUniCity, NewUniCountry
+Group Number: NewGroup
